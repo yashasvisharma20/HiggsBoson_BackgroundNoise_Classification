@@ -1,7 +1,5 @@
 # Higgs Boson Background Noise Classification using Random Forest
 
-![Project Banner](https://your-image-link.com/banner.png)
-
 ## Overview
 This project focuses on classifying background noise in Higgs Boson detection using the Random Forest algorithm. The Higgs Boson particle, discovered at CERN's Large Hadron Collider (LHC), requires precise data analysis to distinguish real particle signals from noise. This project aims to improve classification accuracy using a machine learning-based approach.
 
@@ -34,15 +32,13 @@ The dataset used in this project is from the [Higgs Boson Machine Learning Chall
    
 2. **Model Training**
    - Implementing Random Forest classifier
-   - Hyperparameter tuning (e.g., number of trees, max depth, min samples per split)
    
 3. **Evaluation**
-   - Performance metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC
-   - Comparison with other models (e.g., Decision Tree, Logistic Regression)
-   
+   - Performance metrics
+     
 4. **Results & Visualization**
    - Feature importance analysis
-   - Confusion matrix and ROC curve
+  
    
 ## Installation & Usage
 ### Prerequisites:
@@ -69,7 +65,7 @@ Ensure you have the following installed:
    ```
 
 ## Results
-- Achieved an accuracy of **XX%** using Random Forest.
+- Achieved an accuracy of **72%** using Random Forest.
 - Feature importance analysis highlighted key variables influencing classification.
 
 ## Future Improvements
